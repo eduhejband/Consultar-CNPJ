@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Consultar-CNPJ/static/css/main.288644fd.css",
+    "main.js": "/Consultar-CNPJ/static/js/main.d07b4e08.js",
+    "static/js/787.a3ab92d3.chunk.js": "/Consultar-CNPJ/static/js/787.a3ab92d3.chunk.js",
+    "index.html": "/Consultar-CNPJ/index.html",
+    "main.288644fd.css.map": "/Consultar-CNPJ/static/css/main.288644fd.css.map",
+    "main.d07b4e08.js.map": "/Consultar-CNPJ/static/js/main.d07b4e08.js.map",
+    "787.a3ab92d3.chunk.js.map": "/Consultar-CNPJ/static/js/787.a3ab92d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.288644fd.css",
+    "static/js/main.d07b4e08.js"
+  ]
+}
